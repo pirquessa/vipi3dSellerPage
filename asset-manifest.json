@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vipi3dSellerPage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vipi3dSellerPage/static/js/main.98133347.chunk.js",
+    "main.js.map": "/vipi3dSellerPage/static/js/main.98133347.chunk.js.map",
+    "runtime-main.js": "/vipi3dSellerPage/static/js/runtime-main.358c0bca.js",
+    "runtime-main.js.map": "/vipi3dSellerPage/static/js/runtime-main.358c0bca.js.map",
+    "static/js/2.bd3fb905.chunk.js": "/vipi3dSellerPage/static/js/2.bd3fb905.chunk.js",
+    "static/js/2.bd3fb905.chunk.js.map": "/vipi3dSellerPage/static/js/2.bd3fb905.chunk.js.map",
+    "static/js/3.a31a5312.chunk.js": "/vipi3dSellerPage/static/js/3.a31a5312.chunk.js",
+    "static/js/3.a31a5312.chunk.js.map": "/vipi3dSellerPage/static/js/3.a31a5312.chunk.js.map",
+    "index.html": "/vipi3dSellerPage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vipi3dSellerPage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bd3fb905.chunk.js.LICENSE.txt": "/vipi3dSellerPage/static/js/2.bd3fb905.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vipi3dSellerPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358c0bca.js",
+    "static/js/2.bd3fb905.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.98133347.chunk.js"
+  ]
+}
