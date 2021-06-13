@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/vipi3dSellerPage/static/css/main.32ac74a3.chunk.css",
-    "main.js": "/vipi3dSellerPage/static/js/main.eb88e3bc.chunk.js",
-    "main.js.map": "/vipi3dSellerPage/static/js/main.eb88e3bc.chunk.js.map",
+    "main.css": "/vipi3dSellerPage/static/css/main.83841905.chunk.css",
+    "main.js": "/vipi3dSellerPage/static/js/main.c0a58867.chunk.js",
+    "main.js.map": "/vipi3dSellerPage/static/js/main.c0a58867.chunk.js.map",
     "runtime-main.js": "/vipi3dSellerPage/static/js/runtime-main.0c08c895.js",
     "runtime-main.js.map": "/vipi3dSellerPage/static/js/runtime-main.0c08c895.js.map",
     "static/js/2.1a1602f3.chunk.js": "/vipi3dSellerPage/static/js/2.1a1602f3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a62fffc9.chunk.js": "/vipi3dSellerPage/static/js/3.a62fffc9.chunk.js",
     "static/js/3.a62fffc9.chunk.js.map": "/vipi3dSellerPage/static/js/3.a62fffc9.chunk.js.map",
     "index.html": "/vipi3dSellerPage/index.html",
-    "static/css/main.32ac74a3.chunk.css.map": "/vipi3dSellerPage/static/css/main.32ac74a3.chunk.css.map",
+    "static/css/main.83841905.chunk.css.map": "/vipi3dSellerPage/static/css/main.83841905.chunk.css.map",
     "static/js/2.1a1602f3.chunk.js.LICENSE.txt": "/vipi3dSellerPage/static/js/2.1a1602f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c08c895.js",
     "static/js/2.1a1602f3.chunk.js",
-    "static/css/main.32ac74a3.chunk.css",
-    "static/js/main.eb88e3bc.chunk.js"
+    "static/css/main.83841905.chunk.css",
+    "static/js/main.c0a58867.chunk.js"
   ]
 }
