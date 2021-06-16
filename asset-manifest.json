@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vipi3dSellerPage/static/css/main.83841905.chunk.css",
-    "main.js": "/vipi3dSellerPage/static/js/main.c0a58867.chunk.js",
-    "main.js.map": "/vipi3dSellerPage/static/js/main.c0a58867.chunk.js.map",
-    "runtime-main.js": "/vipi3dSellerPage/static/js/runtime-main.0c08c895.js",
-    "runtime-main.js.map": "/vipi3dSellerPage/static/js/runtime-main.0c08c895.js.map",
-    "static/js/2.1a1602f3.chunk.js": "/vipi3dSellerPage/static/js/2.1a1602f3.chunk.js",
-    "static/js/2.1a1602f3.chunk.js.map": "/vipi3dSellerPage/static/js/2.1a1602f3.chunk.js.map",
-    "static/js/3.a62fffc9.chunk.js": "/vipi3dSellerPage/static/js/3.a62fffc9.chunk.js",
-    "static/js/3.a62fffc9.chunk.js.map": "/vipi3dSellerPage/static/js/3.a62fffc9.chunk.js.map",
+    "main.css": "/vipi3dSellerPage/static/css/main.0ef3028e.chunk.css",
+    "main.js": "/vipi3dSellerPage/static/js/main.b0805601.chunk.js",
+    "main.js.map": "/vipi3dSellerPage/static/js/main.b0805601.chunk.js.map",
+    "runtime-main.js": "/vipi3dSellerPage/static/js/runtime-main.ebe82122.js",
+    "runtime-main.js.map": "/vipi3dSellerPage/static/js/runtime-main.ebe82122.js.map",
+    "static/js/2.7da1d811.chunk.js": "/vipi3dSellerPage/static/js/2.7da1d811.chunk.js",
+    "static/js/2.7da1d811.chunk.js.map": "/vipi3dSellerPage/static/js/2.7da1d811.chunk.js.map",
+    "static/js/3.005290f0.chunk.js": "/vipi3dSellerPage/static/js/3.005290f0.chunk.js",
+    "static/js/3.005290f0.chunk.js.map": "/vipi3dSellerPage/static/js/3.005290f0.chunk.js.map",
     "index.html": "/vipi3dSellerPage/index.html",
-    "static/css/main.83841905.chunk.css.map": "/vipi3dSellerPage/static/css/main.83841905.chunk.css.map",
-    "static/js/2.1a1602f3.chunk.js.LICENSE.txt": "/vipi3dSellerPage/static/js/2.1a1602f3.chunk.js.LICENSE.txt"
+    "static/css/main.0ef3028e.chunk.css.map": "/vipi3dSellerPage/static/css/main.0ef3028e.chunk.css.map",
+    "static/js/2.7da1d811.chunk.js.LICENSE.txt": "/vipi3dSellerPage/static/js/2.7da1d811.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c08c895.js",
-    "static/js/2.1a1602f3.chunk.js",
-    "static/css/main.83841905.chunk.css",
-    "static/js/main.c0a58867.chunk.js"
+    "static/js/runtime-main.ebe82122.js",
+    "static/js/2.7da1d811.chunk.js",
+    "static/css/main.0ef3028e.chunk.css",
+    "static/js/main.b0805601.chunk.js"
   ]
 }
