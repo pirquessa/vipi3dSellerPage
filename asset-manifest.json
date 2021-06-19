@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vipi3dSellerPage/static/css/main.c9607367.chunk.css",
-    "main.js": "/vipi3dSellerPage/static/js/main.fba52576.chunk.js",
-    "main.js.map": "/vipi3dSellerPage/static/js/main.fba52576.chunk.js.map",
-    "runtime-main.js": "/vipi3dSellerPage/static/js/runtime-main.86d4654a.js",
-    "runtime-main.js.map": "/vipi3dSellerPage/static/js/runtime-main.86d4654a.js.map",
-    "static/js/2.739c4f2e.chunk.js": "/vipi3dSellerPage/static/js/2.739c4f2e.chunk.js",
-    "static/js/2.739c4f2e.chunk.js.map": "/vipi3dSellerPage/static/js/2.739c4f2e.chunk.js.map",
-    "static/js/3.c0eacdfe.chunk.js": "/vipi3dSellerPage/static/js/3.c0eacdfe.chunk.js",
-    "static/js/3.c0eacdfe.chunk.js.map": "/vipi3dSellerPage/static/js/3.c0eacdfe.chunk.js.map",
-    "index.html": "/vipi3dSellerPage/index.html",
-    "static/css/main.c9607367.chunk.css.map": "/vipi3dSellerPage/static/css/main.c9607367.chunk.css.map",
-    "static/js/2.739c4f2e.chunk.js.LICENSE.txt": "/vipi3dSellerPage/static/js/2.739c4f2e.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.c9607367.chunk.css",
+    "main.js": "/static/js/main.fba52576.chunk.js",
+    "main.js.map": "/static/js/main.fba52576.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b3fb69a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b3fb69a.js.map",
+    "static/js/2.739c4f2e.chunk.js": "/static/js/2.739c4f2e.chunk.js",
+    "static/js/2.739c4f2e.chunk.js.map": "/static/js/2.739c4f2e.chunk.js.map",
+    "static/js/3.c0eacdfe.chunk.js": "/static/js/3.c0eacdfe.chunk.js",
+    "static/js/3.c0eacdfe.chunk.js.map": "/static/js/3.c0eacdfe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c9607367.chunk.css.map": "/static/css/main.c9607367.chunk.css.map",
+    "static/js/2.739c4f2e.chunk.js.LICENSE.txt": "/static/js/2.739c4f2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86d4654a.js",
+    "static/js/runtime-main.1b3fb69a.js",
     "static/js/2.739c4f2e.chunk.js",
     "static/css/main.c9607367.chunk.css",
     "static/js/main.fba52576.chunk.js"
